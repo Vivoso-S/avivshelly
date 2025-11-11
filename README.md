@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/Vivoso-S/avivshelly/blob/main/banner.png" width="100%" alt="Aviv Shelly Banner">
-</p>
 👋 Hi, I'm Aviv Shelly  
 ### IT & Cloud Infrastructure Enthusiast  
 
